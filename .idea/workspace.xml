@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f4c147cc-3f53-468a-97b6-3b3059b5fdc0" name="Default Changelist" comment="">
+    <list default="true" id="f4c147cc-3f53-468a-97b6-3b3059b5fdc0" name="Default Changelist" comment="Fixed file input/output">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/asm1905/st21/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/asm1905/st21/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/asm1905/st21/scrumTeam.py" beforeDir="false" afterPath="$PROJECT_DIR$/asm1905/st21/scrumTeam.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,6 +15,7 @@
   </component>
   <component name="ProjectId" id="1S9uroKeTLcmrwEDtZdsWjrRLRm" />
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/asm1905/st21" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -103,7 +102,7 @@
       <updated>1570988333599</updated>
       <workItem from="1571734233791" duration="12229000" />
       <workItem from="1571819283587" duration="18720000" />
-      <workItem from="1571950228403" duration="1807000" />
+      <workItem from="1571950228403" duration="2979000" />
     </task>
     <task id="LOCAL-00001" summary="try numero 1">
       <created>1571763302696</created>
@@ -119,7 +118,14 @@
       <option name="project" value="LOCAL" />
       <updated>1571844831232</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Fixed file input/output">
+      <created>1571952278388</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1571952278388</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -145,6 +151,6 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/ASM_19_Lab1$main.coverage" NAME="main Coverage Results" MODIFIED="1571754717912" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/asm1905/st21" />
-    <SUITE FILE_PATH="coverage/ASM_19_Lab1$lab1.coverage" NAME="lab1 Coverage Results" MODIFIED="1571952038708" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ASM_19_Lab1$lab1.coverage" NAME="lab1 Coverage Results" MODIFIED="1571953231656" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
